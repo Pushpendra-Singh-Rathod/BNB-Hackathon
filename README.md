@@ -74,4 +74,4 @@ To set up and run the project locally, follow these steps:
     node servers.js
     ```
 
-2. The application will be accessible at `https://paisabuddy-xzcz.onrender.com/` (or the port defined in your `servers.js` file).
+2. The application will be accessible at `https://bnb-hackathon-bksz.onrender.com/` (or the port defined in your `servers.js` file).
